@@ -11,6 +11,11 @@ module.exports = {
          'pintrest':"url('./assets/images/icon-instagram.svg')"
         }),
 
+      borderColor: theme => ({
+        'soft-red': 'hsl(345, 95%, 68%)',
+        'white': 'hsl(0, 0%,100%)'
+      }),
+
     backgroundColor: theme => ({
        'gray-blue': 'hsl(237, 18%, 60%)',
        'light-blue': 'hsl(237, 19%, 50%)',
@@ -35,6 +40,10 @@ module.exports = {
     },
   },
   variants: {
+    backgroundColor: ['responsive', 'dark', 'group-hover', 'focus-within', 'hover', 'focus'],
+    borderColor: ['responsive', 'dark', 'group-hover', 'focus-within', 'hover', 'focus'],
+    boxShadow: ['responsive', 'group-hover', 'focus-within', 'hover', 'focus'],
+
     extend: {},
   },
   plugins: [],
