@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/countdown-counter/static/css/main.9a30b853.chunk.css",
+    "main.js": "/countdown-counter/static/js/main.abadb909.chunk.js",
+    "main.js.map": "/countdown-counter/static/js/main.abadb909.chunk.js.map",
+    "runtime-main.js": "/countdown-counter/static/js/runtime-main.bdb65e44.js",
+    "runtime-main.js.map": "/countdown-counter/static/js/runtime-main.bdb65e44.js.map",
+    "static/js/2.8b722f50.chunk.js": "/countdown-counter/static/js/2.8b722f50.chunk.js",
+    "static/js/2.8b722f50.chunk.js.map": "/countdown-counter/static/js/2.8b722f50.chunk.js.map",
+    "static/js/3.2dad46ae.chunk.js": "/countdown-counter/static/js/3.2dad46ae.chunk.js",
+    "static/js/3.2dad46ae.chunk.js.map": "/countdown-counter/static/js/3.2dad46ae.chunk.js.map",
+    "index.html": "/countdown-counter/index.html",
+    "static/css/main.9a30b853.chunk.css.map": "/countdown-counter/static/css/main.9a30b853.chunk.css.map",
+    "static/js/2.8b722f50.chunk.js.LICENSE.txt": "/countdown-counter/static/js/2.8b722f50.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/countdown-counter/static/media/pattern-hills.815d688f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdb65e44.js",
+    "static/js/2.8b722f50.chunk.js",
+    "static/css/main.9a30b853.chunk.css",
+    "static/js/main.abadb909.chunk.js"
+  ]
+}
